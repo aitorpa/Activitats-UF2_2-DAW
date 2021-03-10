@@ -30,3 +30,12 @@ Diferenciando los tipos de documentación, nos encontramos 3, documentación de 
 ![image](https://user-images.githubusercontent.com/74070906/110683583-79bab700-81dc-11eb-86cb-74658e93d430.png)
 
 ## CONTROL DE VERSIONES
+
+Los sistemas más conocidos dentro de lo que es "control de versiones" (es un sistema que registra los cambios realizados en un archivo o conjunto de archivos a lo largo del tiempo, de modo que puedas recuperar versiones específicas más adelante):
+
+- CVS
+- Subversion
+- Mercurial
+- Git
+
+![image](https://user-images.githubusercontent.com/74070906/110684346-56443c00-81dd-11eb-923f-485ef4aefd8b.png)
