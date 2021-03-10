@@ -2,7 +2,7 @@
 
 ## OPTIMIZACIÓN
 
-### HEDIONDEZ DEL CÓDIGO
+#### HEDIONDEZ DEL CÓDIGO
 
 Según el diccionario hediondez está definido como “MAL OLOR”, “HEDOR” por lo que podemos decir que cuando algo no tiene buen olor es un claro indicio que de algo no está bien, es un indicador de problemas, alerta y precaución, algo que muchas veces resulta molesto y desagradable. Y más técnicamente hablando, en programación, la **hediondez del código** (code smell en inglés, o también conocido por código que huele o apesta) es cualquier síntoma en el código fuente de un programa que posiblemente indica un problema más profundo, se basa en indicar deficiencias en el diseño que puede ralentizar el desarrollo o aumentan el riesgo de errores o fallos en el futuro.
 
