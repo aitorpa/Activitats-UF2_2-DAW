@@ -19,4 +19,14 @@ Existen dos sitios web que ofrecen inspección de código, **Scrutinizer & Sonar
 
 La refactorización podría compararse con la corrección de un libro: el producto final de la corrección no es un nuevo libro, sino el mismo texto, pero más comprensible. Así, al igual que en la corrección de un libro se usan procedimientos como la reformulación y la reestructuración o eliminación de frases, en la refactorización de código se aplican métodos como la encapsulación, el reformateo o la extracción para optimizar el código sin cambiar su contenido.
 
+## DOCUMENTACIÓN
 
+Diferenciando los tipos de documentación, nos encontramos 3, documentación de código, técnica y de usuario. Para ello, necesitaremos establecer un formato de documentación como bien ya puede ser:
+- HTML (p. ej. Javadoc)
+- Markdown (p. ej. Gitbook)
+- reStructuredText (p. ej. Readthedocs)
+- asciiDoc
+
+![image](https://user-images.githubusercontent.com/74070906/110683583-79bab700-81dc-11eb-86cb-74658e93d430.png)
+
+## CONTROL DE VERSIONES
